@@ -1,0 +1,18 @@
+{   "name": "A03Bhandari",
+    "version": "0.0.1",
+    "description": "simple guestbook app",
+    "main": "server.js",
+    "dependencies": {
+        "express": "latest",
+        "morgan": "latest",
+        "body-parser": "latest",
+        "ejs": "latest"
+    },
+    "author": "Rupraj Bhandari",
+    "homepage": "https://github.com/BhandariRupraj/A03Bhandari",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BhandariRupraj/A03Bhandari"
+    },
+     "license": "Apache-2.0"
+}
